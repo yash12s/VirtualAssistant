@@ -24,7 +24,8 @@ SignUp Page
 
 SignIn Page
 
-![image](https://github.com/user-attachments/assets/b4ec5749-8dfb-4519-8147-0865ea40ded1)
+![image](https://github.com/user-attachments/assets/923582e9-887c-41c0-b441-3df93e776a9c)
+
 
 Customize Page
 
